@@ -9,4 +9,4 @@ clear variables;
 clc;
 
 % Calling the function to analyze the susceptibility for hydrogen-induced material damage
-susceptibility();
+[hydrogen_embrittlement_susceptibility,decarburization_susceptibility,high_temperature_corrosion_susceptibility] = susceptibility();
