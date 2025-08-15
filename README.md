@@ -10,7 +10,7 @@ To replicate the results shown in the paper mentioned above, all the files that 
 ### MATLAB files
 The following files contain the MATLAB code that was used to evaluate the case study in the paper:
 - main.m
-- [...]
+- susceptibility.m
 
 ## Acknowledgements
 This research was funded by the German Federal Ministry of Research, Technology and Space (BMFTR) as part of the Kopernikus project SynErgie (03SFK3E1-3).
