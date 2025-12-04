@@ -1,5 +1,5 @@
 # Research Data
-This repository contains the research data used in the manuscript "Technical suitability assessment of manufacturing system components for hydrogen-based high-temperature processes" by Markus Woerle, Svenja Schrader, Jan Geier, Daniel Schneider, Christina Reuter, and Michael F. Zaeh (under review, DOI: tbd.).
+This repository contains the research data used in the manuscript "Technical suitability assessment of manufacturing system components for hydrogen-based high-temperature processes" by Markus Woerle, Svenja Schrader, Jan Geier, Daniel Schneider, Christina Reuter, and Michael F. Zaeh (accepted, DOI: tbd.).
 
 ## Contact
 Markus Woerle (markus.woerle@iwb.tum.de)
